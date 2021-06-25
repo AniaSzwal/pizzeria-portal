@@ -20,7 +20,7 @@ Sklonuj puste repozytorium, lub stwórz katalog projektu.
 
 ## 3. Zmiana struktury plików
 
-```
+```yar
 rm src/*.css src/*.svg public/*.png public/favicon.ico public/manifest.json
 echo -e "# https://www.robotstxt.org/robotstxt.html\nUser-agent: *\nDisallow: /" > public/robots.txt
 mkdir src/styles
