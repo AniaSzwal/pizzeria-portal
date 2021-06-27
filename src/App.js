@@ -1,6 +1,5 @@
 import React from 'react';
 import MainLayout from './components/layout/MainLayout/MainLayout';
-import React from 'react';
 import {BrowserRouter, Route, Switch} from 'react-router-dom';
 import Dashboard from '../src/components/views/Dashboard/Dashboard';
 import Kitchen from '../src/components/views/Kitchen/Kitchen';

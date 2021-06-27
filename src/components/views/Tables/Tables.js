@@ -2,9 +2,10 @@ import React from 'react';
 import styles from './Tables.scss';
 import {Link} from 'react-router-dom'
 
-const Tables = () => (
+const Tables = (id) => (
   <div className={styles.component}>
     <h2>Tables view</h2>
+    <p>{id}</p>
     <Link to={`${process.env.PUBLIC_URL}/tables/booking/:id`} activeClassName='active'>Booking</Link>
     <Link to={`${process.env.PUBLIC_URL}/tables/booking/new`} activeClassName='active'>New booking</Link>
     <Link to={`${process.env.PUBLIC_URL}/tables/events/:id`} activeClassName='active'>Events</Link>
