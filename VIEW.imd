@@ -1,0 +1,55 @@
+# Dashboard
+
+    "/"
+    -statystki dzisiejszych zamówień(zdalne i lokalne)
+    -listę rezerrrwacji i eventow zaplaowanych na dzisiaj
+
+# Logowanie
+
+    "/login"
+    -pola na login i haslo
+    -guzik do zalogowania(link do dashboardu)
+
+# widok dostepnosci stolikow
+
+    "/tables"
+    -wybor daty i godziny
+    -tabela z listą rezerwacji oraz wydarzen
+        -każda kolumna = 1 stolik
+        -kazdy wiersz = 30 min
+        -ma przypominac widok tygodnia w kalendarzu googla gdzie w kolumnach zamiast dni są rózne stoliki
+        -po kliknięciu eventu lub rezerwacji, przechodzimy na stronę szczegołów
+    "/tables/booking/:id"
+    -zawiera wszystkie informacje dotyczące rezerwacji
+    -umożliwia edycję i zapisanie zmimany
+    "/tables/booking/new"
+    -analogicznie do powyzej, bez początkowych informacji
+    "/tables/events/:id"
+    -analogicznie do powyzej, dla eventów
+    "/tables/events/new"
+    -analogicznie do powyzej, dla eventów, bez początkowych informacji
+
+# widok kelnera
+
+    "/waiter"
+    -tabela
+        -w kolumnach stoliki
+        -w wierszach rózne rodzaje informacji(status, czas od ostatniej aktywności)
+        -w ostatniej kolumnie dostępne akcje dla danego stolika
+    "/waiter/order/new"
+    - numer stolika(edytowalny)
+    - menu produktów
+    - opcje wybranego produktu
+    - zamowienie(zamowione produkty z opcjami i ceną)
+    - kwota zamowienia
+    "/waiter/order/:id"
+    -jak powyższa
+
+# widok kuchni
+
+    "/kitchen"
+    -wyswietla listę zamowien w kolejnosci od ich zlozenia
+    -lista musi zawierać numer stolika (lub zamowienia zdalnego)
+    -pelne inf. dot. zamowionych dan
+   na liście musi być możliwość oznaczenia zamówienia jako zrealizowane
+
