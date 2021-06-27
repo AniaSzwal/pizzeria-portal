@@ -5,8 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bf0daaf4-f3ef-4676-8329-becb1b596172" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/views/Tables/Tables.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/views/Tables/Tables.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/views/Weiter/Weiter.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/views/Weiter/Weiter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +45,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/views" />
     <property name="list.type.of.created.stylesheet" value="Sass" />
@@ -56,7 +62,7 @@
       <recent name="C:\Users\anias\WebstormProjects\pizzeria-portal\public" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="npm.start">
     <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
@@ -67,8 +73,30 @@
       <envs />
       <method v="2" />
     </configuration>
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start:api" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start:api" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="npm.start" />
+        <item itemvalue="npm.start:api" />
         <item itemvalue="npm.build" />
       </list>
     </recent_temporary>
@@ -95,7 +123,7 @@
       <workItem from="1624614766250" duration="1162000" />
       <workItem from="1624639483419" duration="365000" />
       <workItem from="1624639884983" duration="484000" />
-      <workItem from="1624796948455" duration="5010000" />
+      <workItem from="1624796948455" duration="6603000" />
     </task>
     <servers />
   </component>
@@ -107,26 +135,30 @@
       <screen x="0" y="0" width="1422" height="760" />
     </state>
     <state x="487" y="183" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1422.760@0.0.1422.760" timestamp="1624797694697" />
+    <state x="383" y="159" key="EditFileWatcherDialog" timestamp="1624803184853">
+      <screen x="0" y="0" width="1422" height="760" />
+    </state>
+    <state x="383" y="159" key="EditFileWatcherDialog/0.0.1422.760@0.0.1422.760" timestamp="1624803184853" />
     <state x="493" y="136" key="FileChooserDialogImpl" timestamp="1623107511556">
       <screen x="0" y="0" width="1422" height="760" />
     </state>
     <state x="493" y="136" key="FileChooserDialogImpl/0.0.1422.760@0.0.1422.760" timestamp="1623107511556" />
-    <state width="1402" height="189" key="GridCell.Tab.0.bottom" timestamp="1623151102163">
+    <state width="1402" height="189" key="GridCell.Tab.0.bottom" timestamp="1624804150823">
       <screen x="0" y="0" width="1422" height="760" />
     </state>
-    <state width="1402" height="189" key="GridCell.Tab.0.bottom/0.0.1422.760@0.0.1422.760" timestamp="1623151102163" />
-    <state width="1402" height="189" key="GridCell.Tab.0.center" timestamp="1623151102163">
+    <state width="1402" height="189" key="GridCell.Tab.0.bottom/0.0.1422.760@0.0.1422.760" timestamp="1624804150823" />
+    <state width="1402" height="189" key="GridCell.Tab.0.center" timestamp="1624804150823">
       <screen x="0" y="0" width="1422" height="760" />
     </state>
-    <state width="1402" height="189" key="GridCell.Tab.0.center/0.0.1422.760@0.0.1422.760" timestamp="1623151102163" />
-    <state width="1402" height="189" key="GridCell.Tab.0.left" timestamp="1623151102163">
+    <state width="1402" height="189" key="GridCell.Tab.0.center/0.0.1422.760@0.0.1422.760" timestamp="1624804150823" />
+    <state width="1402" height="189" key="GridCell.Tab.0.left" timestamp="1624804150823">
       <screen x="0" y="0" width="1422" height="760" />
     </state>
-    <state width="1402" height="189" key="GridCell.Tab.0.left/0.0.1422.760@0.0.1422.760" timestamp="1623151102163" />
-    <state width="1402" height="189" key="GridCell.Tab.0.right" timestamp="1623151102163">
+    <state width="1402" height="189" key="GridCell.Tab.0.left/0.0.1422.760@0.0.1422.760" timestamp="1624804150823" />
+    <state width="1402" height="189" key="GridCell.Tab.0.right" timestamp="1624804150823">
       <screen x="0" y="0" width="1422" height="760" />
     </state>
-    <state width="1402" height="189" key="GridCell.Tab.0.right/0.0.1422.760@0.0.1422.760" timestamp="1623151102163" />
+    <state width="1402" height="189" key="GridCell.Tab.0.right/0.0.1422.760@0.0.1422.760" timestamp="1624804150823" />
     <state x="222" y="26" key="SettingsEditor" timestamp="1623259149564">
       <screen x="0" y="0" width="1422" height="760" />
     </state>
