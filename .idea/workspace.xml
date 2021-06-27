@@ -5,8 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bf0daaf4-f3ef-4676-8329-becb1b596172" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/VIEW.imd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/views/Dashboard/Dashboard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/views/Dashboard/Dashboard.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/views/Kitchen/Kitchen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/views/Kitchen/Kitchen.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/views/Login/Login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/views/Login/Login.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/views/Tables/Tables.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/views/Tables/Tables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/views/Weiter/Weiter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/views/Weiter/Weiter.module.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/layout/MainLayout/MainLayout.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/layout/MainLayout/MainLayout.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/settings.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/settings.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,14 +53,18 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../Program Files/nodejs/node_modules/npm/bin/npm.cmd" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/views" />
     <property name="list.type.of.created.stylesheet" value="Sass" />
     <property name="nodejs_interpreter_path" value="$PROJECT_DIR$/../../../../Program Files/nodejs/node" />
     <property name="nodejs_package_manager_path" value="yarn" />
     <property name="settings.editor.selected.configurable" value="settings.nodejs" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\anias\WebstormProjects\pizzeria-portal\src\components\views" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\anias\WebstormProjects\pizzeria-portal\src\components\views\Login" />
       <recent name="C:\Users\anias\WebstormProjects\pizzeria-portal\public" />
     </key>
   </component>
@@ -91,7 +107,7 @@
       <workItem from="1624614766250" duration="1162000" />
       <workItem from="1624639483419" duration="365000" />
       <workItem from="1624639884983" duration="484000" />
-      <workItem from="1624796948455" duration="1495000" />
+      <workItem from="1624796948455" duration="3642000" />
     </task>
     <servers />
   </component>
