@@ -5,8 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bf0daaf4-f3ef-4676-8329-becb1b596172" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/views/Weiter/Waiter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/views/Weiter/WaiterContainer.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/views/Dashboard/Dashboard.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/views/Dashboard/Dashboard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/views/Dashboard/Dashboard.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/views/Dashboard/Dashboard.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/views/Kitchen/Kitchen.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/views/Kitchen/Kitchen.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/views/Login/Login.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/views/Login/Login.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/views/Login/Login.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/views/Login/Login.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/views/Tables/Tables.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/views/Tables/Tables.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/views/Tables/Tables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/views/Tables/Tables.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/views/Weiter/Weiter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/views/Weiter/Weiter.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/views/Weiter/Waiter.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,8 +32,8 @@
         <option value="package.json" />
         <option value="CSS File" />
         <option value="Sass File" />
-        <option value="JavaScript File" />
         <option value="SCSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -120,7 +133,7 @@
       <workItem from="1624639884983" duration="484000" />
       <workItem from="1624796948455" duration="7209000" />
       <workItem from="1625071063430" duration="4602000" />
-      <workItem from="1625421709380" duration="12336000" />
+      <workItem from="1625421709380" duration="14525000" />
     </task>
     <servers />
   </component>
@@ -128,6 +141,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="339" y="59" key="#Inspections" timestamp="1625497735025">
+      <screen x="0" y="0" width="1422" height="760" />
+    </state>
+    <state x="339" y="59" key="#Inspections/0.0.1422.760@0.0.1422.760" timestamp="1625497735025" />
     <state x="487" y="183" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1624797694697">
       <screen x="0" y="0" width="1422" height="760" />
     </state>

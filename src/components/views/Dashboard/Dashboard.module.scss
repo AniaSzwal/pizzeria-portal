@@ -1,5 +1,19 @@
+
 @import '../../../styles/settings.scss';
 
 .component {
   padding: $base-size;
+}
+
+.navigation {
+  margin-left: auto;
+}
+
+.link {
+  color: inherit;
+}
+
+.title {
+  font-family: sans-serif;
+  margin: 40px 20px;
 }
